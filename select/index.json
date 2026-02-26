@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "reiji no machi",
+  "base_artist": "パソコン音楽クラブ",
+  "createdAt": "2026-02-26T13:53:33.324820Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "reiji no machi",
+      "artist": "パソコン音楽クラブ, イノウエワラビ",
+      "has_synced": false,
+      "path": "select/pl_01_reiji_no_machi_パソコン音楽クラブ,_イノウエワラビ.txt"
+    }
+  ]
+}
